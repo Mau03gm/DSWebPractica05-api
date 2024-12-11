@@ -1,0 +1,47 @@
+{
+    "_id": {
+        "$oid": "673fc414be99c36d74da0ef7"
+    },
+    "cliente": {
+        "_id": {
+            "$oid": "673f3fb8540642f6d35f816a"
+        },
+        "nombre": "Edson Martinez Magalón",
+        "correo": "edmani1989@gmail.com"
+    },
+    "detalle": [
+        {
+            "producto": {
+                "_id": {
+                    "$oid": "670401f1bc1f85f571fe4ac9"
+                },
+                "descripcion": "Jabón Zote Azul 400g",
+                "precio": 10
+            },
+            "cantidad": 5,
+            "subtotal": 50,
+            "_id": {
+                "$oid": "673fc414be99c36d74da0ef8"
+            }
+        },
+        {
+            "producto": {
+                "_id": {
+                    "$oid": "670401f1bc1f85f571fe4aca"
+                },
+                "descripcion": "Pasta Dental Colgate 100ml",
+                "precio": 25
+            },
+            "cantidad": 1,
+            "subtotal": 25,
+            "_id": {
+                "$oid": "673fc414be99c36d74da0ef9"
+            }
+        }
+    ],
+    "total": 75,
+    "fecha": {
+        "$date": "2024-11-21T23:36:52.829Z"
+    },
+    "__v": 0
+}

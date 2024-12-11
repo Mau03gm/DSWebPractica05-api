@@ -1,0 +1,11 @@
+[
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ac9"
+        },
+        "nombre": "Admin Admin",
+        "email": "admin@email.com",
+        "password": "admin",
+        "rol": "admin"
+    }
+]

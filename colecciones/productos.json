@@ -1,0 +1,107 @@
+[
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ac9"
+        },
+        "descripcion": "Jabón Zote Azul 400g",
+        "precio": "10.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4aca"
+        },
+        "descripcion": "Pasta Dental Colgate 100ml",
+        "precio": "25.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4acb"
+        },
+        "descripcion": "Arroz Blanco 1kg",
+        "precio": "20.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4acc"
+        },
+        "descripcion": "Aceite de Cocina 1L",
+        "precio": "35.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4acd"
+        },
+        "descripcion": "Cereal Choco Krispis 500g",
+        "precio": "50.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ace"
+        },
+        "descripcion": "Galletas Marías 150g",
+        "precio": "15.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4acf"
+        },
+        "descripcion": "Atún en Agua 140g",
+        "precio": "18.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ad0"
+        },
+        "descripcion": "Salsa de Tomate 300ml",
+        "precio": "12.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ad1"
+        },
+        "descripcion": "Leche Entera 1L",
+        "precio": "22.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ad2"
+        },
+        "descripcion": "Café Soluble 100g",
+        "precio": "45.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ad3"
+        },
+        "descripcion": "Pan de Caja 680g",
+        "precio": "32.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ad4"
+        },
+        "descripcion": "Detergente Líquido 1L",
+        "precio": "60.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ad5"
+        },
+        "descripcion": "Queso Manchego 250g",
+        "precio": "55.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ad6"
+        },
+        "descripcion": "Huevos Frescos 12 piezas",
+        "precio": "35.00"
+    },
+    {
+        "_id": {
+            "$oid": "670401f1bc1f85f571fe4ad7"
+        },
+        "descripcion": "Azúcar Blanca 1kg",
+        "precio": "20.00"
+    }
+]
