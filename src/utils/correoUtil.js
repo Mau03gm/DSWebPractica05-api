@@ -5,13 +5,13 @@ const enviarCorreo = async ({ destinatario, asunto, texto, adjuntos }) => {
     const transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-            user: 'yadhirtv@gmail.com',
-            pass: 'crwpyfnkzctwmdfc',
+            user: 'dentizsystem@gmail.com',
+            pass: 'lnexynrfgqzpuxdk',
         },
     });
 
     const mailOptions = {
-        from: '"YadhirtV" <yadhirtv@gmail.com>',
+        from: '"Dentiz" <dentizsystem@gmail.com>',
         to: destinatario,
         subject: asunto,
         text: texto,
